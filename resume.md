@@ -4,8 +4,11 @@
 ammoneroberts@gmail.com
 
 SUMMARY
+
 A highly experienced technical support and customer service specialist with over 2 years’ experience. Currently a student at Utah Valley University, pursuing a B.S in software engineering.
+
 EXPERIENCE
+
 Field Tech Support, Pro 4
 Vivint, Inc.
 
