@@ -33,6 +33,7 @@ August 2017 – May 2018
 #### Duties
 - General advanced troubleshooting with field technicians.
 - Train field technicians as needed when they call in.
+
 #### Accomplishments
 - Improved department certification tests to provide a better experience for coworkers.
 ---
@@ -44,6 +45,7 @@ August 2016 – August 2017
 #### Duties
 - Efficiently communicate to diagnose and troubleshoot equipment.
 - Mentored new hires on the team to train on quality assurance and legal compliance.
+
 #### Accomplishments
 - Advanced quickly through department tiers.
 Mentored new hires on the team to assist in training on quality assurance and legal compliance.
@@ -56,10 +58,13 @@ January 2016 - August 2016
 #### Duties
 - Proactively remind customers of an end of contract and offer a renewal.
 - Process payments and correspond with customers on a regular basis.
+
 #### Accomplishments
 - Quickly learned and accomplished duties satisfactorily having no prior experience in finance.
 - Digitized over 1000 client records over a period of 7 months.
+
 ### SKILLS
+
 - Experience in C based languages.
 - Proficient in Microsoft Office products.
 - Proficient in Salesforce.
