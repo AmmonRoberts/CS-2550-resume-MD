@@ -69,6 +69,6 @@ January 2016 - August 2016
 
 ### SKILLS
 
-    - Experience in C based languages.
-    - Proficient in Microsoft Office products.
-    - Proficient in Salesforce.
+   - Experience in C based languages.
+   - Proficient in Microsoft Office products.
+   - Proficient in Salesforce.
