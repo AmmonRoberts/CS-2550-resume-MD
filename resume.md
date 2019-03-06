@@ -10,6 +10,7 @@ A highly experienced technical support and customer service specialist with over
 ### EXPERIENCE
 
 _Field Tech Support, Pro 4_
+
 Vivint, Inc.
 
 May 2018 – present
@@ -26,6 +27,7 @@ May 2018 – present
 > - Submitted 20 bugs and 27 enhancement requests since May 2017.
 ---
 _Field Tech Support, General_
+
 Vivint, Inc.
 
 August 2017 – May 2018
@@ -38,6 +40,7 @@ August 2017 – May 2018
 > - Improved department certification tests to provide a better experience for coworkers.
 ---
 _Customer Care, Technical Support (Tiers 1-4)_
+
 Vivint, Inc.
 
 August 2016 – August 2017
@@ -51,6 +54,7 @@ August 2016 – August 2017
 > - Mentored new hires on the team to assist in training on quality assurance and legal compliance.
 ---
 _Finance, Accounts Receivable_
+
 Infinisource, Inc
 
 January 2016 - August 2016
