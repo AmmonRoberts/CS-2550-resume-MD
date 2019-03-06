@@ -32,11 +32,11 @@ Vivint, Inc.
 
 August 2017 – May 2018
 
-#### Duties
+- #### Duties
     - General advanced troubleshooting with field technicians.
     - Train field technicians as needed when they call in.
 
-#### Accomplishments
+- #### Accomplishments
     - Improved department certification tests to provide a better experience for coworkers.
 ---
 _**Customer Care, Technical Support (Tiers 1-4)**_
@@ -45,11 +45,11 @@ Vivint, Inc.
 
 August 2016 – August 2017
 
-#### Duties
+- #### Duties
     - Efficiently communicate to diagnose and troubleshoot equipment.
     - Mentored new hires on the team to train on quality assurance and legal compliance.
 
-#### Accomplishments
+- #### Accomplishments
     - Advanced quickly through department tiers.
     - Mentored new hires on the team to assist in training on quality assurance and legal compliance.
 ---
@@ -59,11 +59,11 @@ Infinisource, Inc
 
 January 2016 - August 2016
 
-#### Duties
+- #### Duties
     - Proactively remind customers of an end of contract and offer a renewal.
     - Process payments and correspond with customers on a regular basis.
 
-#### Accomplishments
+- #### Accomplishments
     - Quickly learned and accomplished duties satisfactorily having no prior experience in finance.
     - Digitized over 1000 client records over a period of 7 months.
 
