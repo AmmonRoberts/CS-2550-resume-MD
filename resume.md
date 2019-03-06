@@ -15,14 +15,14 @@ Vivint, Inc.
 
 May 2018 – present
 
-#### Duties
+- #### Duties
 
     - Escalate software bugs from the Field Support team.
     - Train new hires and provide continued training to current employees.
     - Develop and design training materials.
     - Advanced troubleshooting, specifically camera and networking issues.
 
-#### Accomplishments
+- #### Accomplishments
     - Greatly improved communication between our team and the rest of Vivint through working closely with engineers at the Innovation Center to solve problems and distribute helpful information through our department to the field.
     - Submitted 20 bugs and 27 enhancement requests since May 2017.
 ---
